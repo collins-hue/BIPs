@@ -1,5 +1,5 @@
 <pre>
-  BIP: 118
+  BIP: 13
   Layer: Consensus (soft fork)
   Title: SIGHASH_ANYPREVOUT for Taproot Scripts
   Author: Christian Decker <decker.christian@gmail.com>

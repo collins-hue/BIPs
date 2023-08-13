@@ -1,5 +1,5 @@
 <pre>
-  BIP: 93
+  BIP: 9
   Layer: Applications
   Title: codex32: Checksummed SSSS-aware BIP32 seeds
   Author: Leon Olsson Curr and Pearlwort Sneed <pearlwort@wpsoftware.net>

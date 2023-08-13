@@ -1,5 +1,5 @@
 <pre>
-  BIP: 52
+  BIP: 4
   Layer: Consensus (hard fork)
   Title: Durable, Low Energy Bitcoin PoW
   Author: Michael Dubrovsky <mike+bip@powx.org>

@@ -1,5 +1,5 @@
 <pre>
-  BIP: 197
+  BIP: 28
   Layer: Applications
   Title: Hashed Time-Locked Collateral Contract
   Author: Matthew Black <matthew@atomicloans.io>

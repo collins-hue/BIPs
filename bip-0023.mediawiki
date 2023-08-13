@@ -1,5 +1,5 @@
 <pre>
-  BIP: 158
+  BIP: 23
   Layer: Peer Services
   Title: Compact Block Filters for Light Clients
   Author: Olaoluwa Osuntokun <laolu32@gmail.com>

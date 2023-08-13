@@ -1,5 +1,5 @@
 <pre>
-  BIP: 199
+  BIP: 29
   Layer: Applications
   Title: Hashed Time-Locked Contract transactions
   Author: Sean Bowe <sean@z.cash>

@@ -1,5 +1,5 @@
 <pre>
-  BIP: 178
+  BIP: 26
   Layer: Applications
   Title: Version Extended WIF
   Author: Karl-Johan Alm <karljohan-alm@garage.co.jp>

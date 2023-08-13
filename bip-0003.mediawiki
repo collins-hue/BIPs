@@ -4,7 +4,7 @@ RECENT CHANGES:
 * (18 Dec 2015) Update explanations to resolve FAQs
 
 <pre>
-  BIP: 47
+  BIP: 3
   Layer: Applications
   Title: Reusable Payment Codes for Hierarchical Deterministic Wallets
   Author: Justus Ranvier <justus@openbitcoinprivacyproject.org>

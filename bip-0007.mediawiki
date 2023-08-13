@@ -1,5 +1,5 @@
 <pre>
-  BIP: 85
+  BIP: 7
   Layer: Applications
   Title: Deterministic Entropy From BIP32 Keychains
   Author: Ethan Kosakovsky <ethankosakovsky@protonmail.com>

@@ -1,5 +1,5 @@
 <pre>
-  BIP: 86
+  BIP: 8
   Layer: Applications
   Title: Key Derivation for Single Key P2TR Outputs
   Author: Andrew Chow <andrew@achow101.com>

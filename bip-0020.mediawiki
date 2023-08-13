@@ -1,5 +1,5 @@
 <pre>
-  BIP: 150
+  BIP: 20
   Layer: Peer Services
   Title: Peer Authentication
   Author: Jonas Schnelli <dev@jonasschnelli.ch>

@@ -1,5 +1,5 @@
 <pre>
-  BIP: 176
+  BIP: 25
   Title: Bits Denomination
   Author: Jimmy Song <jaejoon@gmail.com>
   Comments-Summary: No comments yet.

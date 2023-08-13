@@ -1,5 +1,5 @@
 <pre>
-  BIP: 136
+  BIP: 19
   Layer: Applications
   Title: Bech32 Encoded Tx Position References
   Author: Велеслав <veleslav.bips@protonmail.com>

@@ -1,6 +1,6 @@
 
 <pre>
-  BIP: 127
+  BIP: 17
   Layer: Applications
   Title: Simple Proof-of-Reserves Transactions
   Author: Steven Roose <steven@stevenroose.org>

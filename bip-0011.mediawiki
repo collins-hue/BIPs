@@ -1,5 +1,5 @@
 <pre>
-  BIP: 116
+  BIP: 11
   Layer: Consensus (soft fork)
   Title: MERKLEBRANCHVERIFY
   Author: Mark Friedenbach <mark@friedenbach.org>

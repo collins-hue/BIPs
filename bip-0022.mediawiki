@@ -1,5 +1,5 @@
 <pre>
-  BIP: 157
+  BIP: 22
   Layer: Peer Services
   Title: Client Side Block Filtering
   Author: Olaoluwa Osuntokun <laolu32@gmail.com>

@@ -1,5 +1,5 @@
 <pre>
-  BIP: 119
+  BIP: 14
   Layer: Consensus (soft fork)
   Title: CHECKTEMPLATEVERIFY
   Author: Jeremy Rubin <j@rubin.io>

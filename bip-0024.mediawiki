@@ -1,5 +1,5 @@
 <pre>
-  BIP: 159
+  BIP: 24
   Layer: Peer Services
   Title: NODE_NETWORK_LIMITED service bit
   Author: Jonas Schnelli <dev@jonasschnelli.ch>

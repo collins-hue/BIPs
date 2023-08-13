@@ -1,5 +1,5 @@
 <pre>
-  BIP: 126
+  BIP: 16
   Title: Best Practices for Heterogeneous Input Script Transactions
   Author: Kristov Atlas <kristov@openbitcoinprivacyproject.org>
   Comments-Summary: No comments yet.

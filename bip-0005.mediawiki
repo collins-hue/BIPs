@@ -1,5 +1,5 @@
 <pre>
-  BIP: 60
+  BIP: 5
   Layer: Peer Services
   Title: Fixed Length "version" Message (Relay-Transactions Field)
   Author: Amir Taaki <genjix@riseup.net>
