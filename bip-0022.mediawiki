@@ -6,7 +6,7 @@
           Alex Akselrod <alex@akselrod.org>
           Jim Posen <jimpo@coinbase.com>
   Comments-Summary: None yet
-  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0157
+  Comments-URI: https://github.com/naftalimurgor/BIPs/wiki
   Status: Draft
   Type: Standards Track
   Created: 2017-05-24

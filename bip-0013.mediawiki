@@ -5,7 +5,7 @@
   Author: Christian Decker <decker.christian@gmail.com>
           Anthony Towns <aj@erisian.com.au>
   Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0118
+  Comments-URI: https://github.com/naftalimurgor/BIPs/wiki
   Status: Draft
   Type: Standards Track
   Created: 2017-02-28

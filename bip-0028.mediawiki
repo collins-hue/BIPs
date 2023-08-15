@@ -5,7 +5,7 @@
   Author: Matthew Black <matthew@atomicloans.io>
           Tony Cai <tony@atomicloans.io>
   Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0197
+  Comments-URI: https://github.com/naftalimurgor/BIPs/wiki
   Status: Draft
   Type: Standards Track
   Created: 2019-03-19

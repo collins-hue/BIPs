@@ -4,7 +4,7 @@
   Title: Version Extended WIF
   Author: Karl-Johan Alm <karljohan-alm@garage.co.jp>
   Comments-Summary: Discouraged for implementation (one person)
-  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0178
+  Comments-URI: https://github.com/naftalimurgor/BIPs/wiki
   Status: Draft
   Type: Standards Track
   Created: 2018-04-04
