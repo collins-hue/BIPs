@@ -168,7 +168,7 @@ The protocol may be slow if a peer has a large authorized-peers database due to 
 
 == References ==
 
-* [1] [[bip-0151.mediawiki|BIP 151: Peer-to-Peer Communication Encryption]]
+* [1] [[https://github.com/bitcoin/bips/blob/master/bip-0151.mediawiki: Peer-to-Peer Communication Encryption]]
 
 == Acknowledgements ==
 * Gregory Maxwell and Pieter Wuille for most of the ideas in this BIP.

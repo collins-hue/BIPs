@@ -106,4 +106,4 @@ If a user wishes to create an output that is larger than half the total size of 
 
 ==Reference==
 
-* [[bip-0069.mediawiki|BIP69 - Lexicographical Indexing of Transaction Inputs and Outputs]]
+* [[https://github.com/bitcoin/bips/blob/master/bip-0069.mediawiki - Lexicographical Indexing of Transaction Inputs and Outputs]]
