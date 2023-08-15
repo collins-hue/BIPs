@@ -371,9 +371,9 @@ Alice's wallet should spend the notification change output at the next appropria
 
 ==Reference==
 
-* [[bip-0032.mediawiki|BIP32 - Hierarchical Deterministic Wallets]]
-* [[bip-0043.mediawiki|BIP43 - Purpose Field for Deterministic Wallets]]
-* [[bip-0044.mediawiki|BIP44 - Multi-Account Hierarchy for Deterministic Wallets]]
+* [[https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki - Hierarchical Deterministic Wallets]]
+* [[https://github.com/bitcoin/bips/blob/master/bip-0043.mediawiki - Purpose Field for Deterministic Wallets]]
+* [[https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki - Multi-Account Hierarchy for Deterministic Wallets]]
 * [[https://bitcoin.org/en/developer-reference#outpoint|Outpoint]]
 * [[https://github.com/petertodd/dust-b-gone|dust-b-gone]]
 * [[https://en.bitcoin.it/wiki/Base58Check_encoding|Base58Check encoding]]
